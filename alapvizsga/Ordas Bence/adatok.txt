@@ -1,0 +1,13 @@
+<nav>
+	<div id="logo">
+		<img
+			src="./images/logo.png"
+			alt="Reök logó"
+		/>
+	</div>
+	<div id="linkek">
+		<a href="./">Nyitó</a>
+		<a href="./">Termékeink</a>
+		<a href="./">Rólunk</a>
+	</div>
+</nav>
